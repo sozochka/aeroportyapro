@@ -1,0 +1,240 @@
+html, body{
+    background-color: black;
+    margin: 0; 
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Aeroport;
+
+}
+
+.ostanovka{
+    position: absolute; 
+    margin: 100px auto;  
+    z-index: 2;
+    left: 0;
+    right: 0;
+}
+
+.gorizont{
+    position: relative;
+    
+    
+}
+
+.header{
+    color: #EBFF00;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    left: 17%;
+    top: 0%;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.razmetca{
+    position: absolute;
+    top: 1000px;
+    left: 3%;
+}
+.bileti{
+    position: absolute;
+    top: 1000px;
+    left: 3%;
+}
+
+.opisanie{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 640px;
+    left: 45%;
+    top: 1000px;
+}
+
+.opisanie2{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 640px;
+    left: 45%;
+    top: 1500px;
+}
+
+.opisanie2 > h2{
+    color: #ffffff;
+}
+
+.opisanie2 > div > h2:nth-child(1){
+    font-style: italic;
+    font-weight: 300;
+    }
+
+.bileti{
+    position: absolute;
+    top: 2000px;
+    left: 36%;
+}
+
+.znaki{
+    position: absolute;
+    top: 2100px;
+    left: 1px;
+}
+
+.opisanie3{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 400px;
+    left: 2%;
+    top: 3100px;
+}
+
+.a{
+    position: absolute;
+    top: 2450px;
+    left: 45%;
+}
+
+.vz{
+    position: absolute;
+    top: 3550px;
+    left: 4%;
+}
+
+.opisanie4{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 450px;
+    left: 65%;
+    top: 3950px;
+}
+
+.opisanie5{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 400px;
+    left: 2%;
+    top: 4700px;
+}
+
+.m{
+    position: absolute;
+    top: 4000px;
+    left: 45%;
+}
+
+.opisanie6{
+    color: #EBFF00;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    left: 15%;
+    top: 5250px;
+    font-size: 100px;
+}
+
+.aboba{
+    position: absolute; 
+    margin: 100px auto;  
+    left: 0;
+    right: 0;
+    top: 5350px;
+}
+
+.opisanie7{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 350px;
+    left: 2%;
+    top: 6200px;
+}
+
+.gli{
+    position: absolute; 
+    margin: 100px auto;  
+    left: 27%;
+    right: 0;
+    top: 6050px;
+}
+
+.opisanie8{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 350px;
+    left: 2%;
+    top: 7000px;
+}
+
+.boba{
+    position: absolute; 
+    margin: 100px auto;  
+    left: 27%;
+    right: 0;
+    top: 6700px;
+}
+
+.opisanie9{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    left: 50%;
+    top: 6640px;
+    font-size: 50px;
+}
+
+.opisanie10{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    left: 64%;
+    top: 6640px;
+    font-size: 50px;
+}
+
+footer{
+    color: #ffffff;
+    position: absolute;
+    font-style: normal;
+    margin: 100px auto;  
+    z-index: 2;
+    width: 400px;
+    left: 2%;
+    top: 7350px;
+    padding: 30px;
+}
+
+.logo{
+    position: absolute; 
+    margin: 100px auto;  
+    left: 80;
+    right: 0;
+    top: 7340px;
+    padding: 30px;
+}
